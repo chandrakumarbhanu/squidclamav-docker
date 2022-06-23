@@ -1,0 +1,1 @@
+# squidclamav-docker
